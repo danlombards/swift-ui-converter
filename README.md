@@ -1,4 +1,4 @@
-# LOTR-CONVERTER-SWFITUI
+# CONVERTER-SWFITUI
 This is SwiftUI project which has basic currcencies to convert and get their corresponding values.
 
 ## Project Overview

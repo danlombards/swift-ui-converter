@@ -1,4 +1,4 @@
-# CONVERTER-SWFITUI
+# Converter-SwiftUI
 This is SwiftUI project which has basic currcencies to convert and get their corresponding values.
 
 ## Project Overview
